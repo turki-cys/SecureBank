@@ -15,3 +15,10 @@ Role-Based Access: Specialized administrative interface to manage and monitor al
 
 # Security Implementation
 The primary focus of this project is the prevention of SQL Injection (SQLi). By transitioning from direct query concatenation to PHP Data Objects (PDO) Prepared Statements, the application effectively neutralizes injection attempts and ensures that user input is never executed as database commands.
+
+# Developers
+- Turki Ali Ammari
+- Hussam Abdullah Almajnuni
+- Yazan Saad Mousa
+- Almuthanna Yahia Alyousef
+- Ahmed Yousef Alfayez
