@@ -6,8 +6,11 @@ SecureBank is a functional web application developed to provide a secure environ
 
 # Core Features
 User Authentication: Secure registration and login system utilizing cryptographic password hashing.
+
 Dashboard Management: Real time balance tracking in Saudi Riyals for every registered account holder.
+
 Funds Transfer: A module allowing users to send money to other bank members while maintaining data integrity.
+
 Role-Based Access: Specialized administrative interface to manage and monitor all system accounts.
 
 # Security Implementation
