@@ -1,4 +1,4 @@
-<img width="259" height="323" alt="Logo" src="https://github.com/user-attachments/assets/b8d19f4b-2210-49db-b294-26161c85a909" />
+<img width="259" height="250" alt="Logo" src="https://github.com/user-attachments/assets/b8d19f4b-2210-49db-b294-26161c85a909" />
 
 # SecureBank
 A secure digital banking portal to demonstrate defensive programming techniques, user authentication, and mitigation of SQL Injection vulnerabilities.
